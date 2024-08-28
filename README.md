@@ -1,5 +1,4 @@
-# Patient_visit_report
-# Power BI Dashboard: Patient Dataset Analysis
+# Power BI Dashboard: Patient Visit Report
 
 ## Project Overview
 
